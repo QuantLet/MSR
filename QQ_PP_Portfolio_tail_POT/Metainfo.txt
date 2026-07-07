@@ -1,0 +1,11 @@
+Name of Quantlet: QQ_PP_Portfolio_tail_POT
+
+Published in: Measuring Statistical Risk
+
+Description: This Python notebook applies the peaks-over-threshold method to the losses of the German stock portfolio and fits a Generalized Pareto distribution to the exceedances above a high threshold. The quality of the fit is assessed graphically with quantile-quantile and probability-probability plots.
+
+Keywords: peaks-over-threshold, Generalized Pareto distribution, QQ plot, PP plot, tail
+
+Author: Ștefan Găman
+
+Submitted: 7 July 2026

@@ -1,0 +1,11 @@
+Name of Quantlet: Portfolio_est
+
+Published in: Measuring Statistical Risk
+
+Description: This Python notebook fits a GARCH(1,1) model to the log returns of the German stock portfolio and extracts the standardised innovations. It then estimates the density of these innovations with a kernel density estimator and compares it to the standard normal distribution, both on the ordinary and on the logarithmic density scale, in order to assess whether the innovations exhibit fat tails.
+
+Keywords: GARCH, kernel density estimation, innovations, volatility, fat tails
+
+Author: Ștefan Găman
+
+Submitted: 7 July 2026

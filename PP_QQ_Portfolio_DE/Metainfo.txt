@@ -1,0 +1,11 @@
+Name of Quantlet: PP_QQ_Portfolio_DE
+
+Published in: Measuring Statistical Risk
+
+Description: This Python notebook examines whether the daily log returns of the German stock portfolio follow a normal distribution. It constructs a probability-probability plot and a quantile-quantile plot against the fitted normal distribution, which reveal the fat tails of the portfolio returns.
+
+Keywords: PP plot, QQ plot, normality, portfolio, log returns
+
+Author: Ștefan Găman
+
+Submitted: 7 July 2026

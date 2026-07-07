@@ -1,0 +1,11 @@
+Name of Quantlet: BAYN_DE
+
+Published in: Measuring Statistical Risk
+
+Description: This Python notebook downloads the historical price and trading volume data of Bayer AG (BAYN.DE) from Yahoo Finance and computes the daily logarithmic returns of the stock. It saves the resulting series to the shared Data folder and visualises both the closing price together with the trading volume and the evolution of the log returns over time.
+
+Keywords: Bayer, log returns, stock prices, trading volume, time series
+
+Author: Ștefan Găman
+
+Submitted: 7 July 2026

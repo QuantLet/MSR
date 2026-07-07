@@ -1,0 +1,11 @@
+Name of Quantlet: BMW_DE
+
+Published in: Measuring Statistical Risk
+
+Description: This Python notebook downloads the historical price and trading volume data of BMW (BMW.DE) from Yahoo Finance and computes the daily logarithmic returns of the stock. The resulting return series is saved to the shared Data folder and plotted as a time series covering the full sample period.
+
+Keywords: BMW, log returns, stock prices, Yahoo Finance, time series
+
+Author: Ștefan Găman
+
+Submitted: 7 July 2026

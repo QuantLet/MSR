@@ -1,0 +1,11 @@
+Name of Quantlet: PP_Gumbel
+
+Published in: Measuring Statistical Risk
+
+Description: This Python notebook simulates a sample from the Gumbel distribution and constructs a probability-probability plot against the standard normal distribution in order to visualise how the extreme value sample deviates from normality.
+
+Keywords: PP plot, Gumbel, simulation, normal distribution, goodness-of-fit
+
+Author: Ștefan Găman
+
+Submitted: 7 July 2026

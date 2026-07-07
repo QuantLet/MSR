@@ -1,0 +1,11 @@
+Name of Quantlet: Portfolio_DE
+
+Published in: Measuring Statistical Risk
+
+Description: This Python notebook constructs an equally weighted portfolio from the daily log returns of Bayer, BMW and Siemens stocks and computes the resulting portfolio log returns. The portfolio return series is saved to the shared Data folder and plotted as a time series over the whole sample period.
+
+Keywords: portfolio, log returns, German stocks, equal weights, time series
+
+Author: Ștefan Găman
+
+Submitted: 7 July 2026

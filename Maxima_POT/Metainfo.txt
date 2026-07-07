@@ -1,0 +1,11 @@
+Name of Quantlet: Maxima_POT
+
+Published in: Measuring Statistical Risk
+
+Description: This Python notebook illustrates the two classical sampling schemes of extreme value theory on a simulated series of losses. It shows how extreme observations are selected under the block maxima approach, where the largest loss within each block is retained, and under the peaks-over-threshold approach, where all losses above a given threshold are considered.
+
+Keywords: block maxima, peaks-over-threshold, threshold, losses, extreme value theory
+
+Author: Ștefan Găman
+
+Submitted: 7 July 2026

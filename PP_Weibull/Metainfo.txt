@@ -1,0 +1,11 @@
+Name of Quantlet: PP_Weibull
+
+Published in: Measuring Statistical Risk
+
+Description: This Python notebook simulates a sample from the Weibull extreme value distribution and constructs a probability-probability plot against the standard normal distribution in order to visualise how the sample deviates from normality.
+
+Keywords: PP plot, Weibull, simulation, normal distribution, goodness-of-fit
+
+Author: Ștefan Găman
+
+Submitted: 7 July 2026

@@ -1,0 +1,11 @@
+Name of Quantlet: Generalized_Pareto_distributions
+
+Published in: Measuring Statistical Risk
+
+Description: This Python notebook illustrates the three forms of the Generalized Pareto distribution by plotting its density for a positive, a zero and a negative shape parameter, which correspond to the Pareto, exponential and beta cases that arise in the modelling of threshold exceedances.
+
+Keywords: Generalized Pareto distribution, shape parameter, tail, density, extreme value theory
+
+Author: Ștefan Găman
+
+Submitted: 7 July 2026

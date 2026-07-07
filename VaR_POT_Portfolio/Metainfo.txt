@@ -1,0 +1,11 @@
+Name of Quantlet: VaR_POT_Portfolio
+
+Published in: Measuring Statistical Risk
+
+Description: This Python notebook estimates the daily Value-at-Risk of the German stock portfolio with the peaks-over-threshold method, fitting a Generalized Pareto distribution to the losses above a high threshold within a rolling window. The estimates at the 95% and 99% confidence levels are backtested against the realised losses and the evolution of the fitted parameters over time is visualised.
+
+Keywords: Value-at-Risk, peaks-over-threshold, Generalized Pareto distribution, backtesting, rolling window
+
+Author: Ștefan Găman
+
+Submitted: 7 July 2026

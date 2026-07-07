@@ -1,0 +1,11 @@
+Name of Quantlet: QQ_PP_Portfolio_tail_GEV
+
+Published in: Measuring Statistical Risk
+
+Description: This Python notebook applies the block maxima method to the log returns of the German stock portfolio and fits a Generalized Extreme Value distribution to the largest block maxima. The quality of the fit is assessed graphically with quantile-quantile and probability-probability plots.
+
+Keywords: block maxima, Generalized Extreme Value distribution, QQ plot, PP plot, tail
+
+Author: Ștefan Găman
+
+Submitted: 7 July 2026
