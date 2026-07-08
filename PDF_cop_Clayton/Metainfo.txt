@@ -1,0 +1,11 @@
+Name of Quantlet: PDF_cop_Clayton
+
+Published in: Measuring Statistical Risk
+
+Description: This Python notebook evaluates the density of the Clayton copula on a grid of the unit square and displays it as a three-dimensional surface. The plot highlights the strong lower tail dependence that characterises this Archimedean copula family.
+
+Keywords: Clayton copula, density, lower tail dependence, Archimedean copula, surface plot
+
+Author: Ștefan Găman
+
+Submitted: 8 July 2026

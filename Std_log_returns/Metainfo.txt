@@ -1,0 +1,11 @@
+Name of Quantlet: Std_log_returns
+
+Published in: Measuring Statistical Risk
+
+Description: This Python notebook standardises the daily log returns of Bayer, BMW, Siemens and Volkswagen and saves the resulting series to the shared Data folder. Each standardised return series is plotted separately, which makes the volatility clustering of the individual stocks visible.
+
+Keywords: standardised log returns, German stocks, volatility clustering, time series, z-score
+
+Author: Ștefan Găman
+
+Submitted: 8 July 2026

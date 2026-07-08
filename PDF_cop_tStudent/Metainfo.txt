@@ -1,0 +1,11 @@
+Name of Quantlet: PDF_cop_tStudent
+
+Published in: Measuring Statistical Risk
+
+Description: This Python notebook evaluates the density of the Student-t copula on a grid of the unit square and displays it as a three-dimensional surface. With few degrees of freedom the density exhibits pronounced peaks in both corners, reflecting the symmetric tail dependence that distinguishes the t copula from the Gaussian one.
+
+Keywords: Student-t copula, density, tail dependence, degrees of freedom, surface plot
+
+Author: Ștefan Găman
+
+Submitted: 8 July 2026

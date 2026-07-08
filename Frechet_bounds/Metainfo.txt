@@ -1,0 +1,11 @@
+Name of Quantlet: Frechet_bounds
+
+Published in: Measuring Statistical Risk
+
+Description: This Python notebook visualises the Fréchet-Hoeffding bounds together with the independence copula by plotting the three copula surfaces side by side. The figure illustrates that every copula lies between the countermonotonicity lower bound and the comonotonicity upper bound.
+
+Keywords: Fréchet-Hoeffding bounds, copula, comonotonicity, countermonotonicity, independence
+
+Author: Ștefan Găman
+
+Submitted: 8 July 2026

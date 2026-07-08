@@ -1,0 +1,11 @@
+Name of Quantlet: Tail_dep_vs_VarIndex
+
+Published in: Measuring Statistical Risk
+
+Description: This Python notebook studies how the tail dependence coefficient varies with the tail index by evaluating the defining ratio of integrals numerically for several correlation values. The resulting curves show that tail dependence decreases as the tail index grows.
+
+Keywords: tail dependence, tail index, numerical integration, correlation, copula theory
+
+Author: Ștefan Găman
+
+Submitted: 8 July 2026

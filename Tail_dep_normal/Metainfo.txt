@@ -1,0 +1,11 @@
+Name of Quantlet: Tail_dep_normal
+
+Published in: Measuring Statistical Risk
+
+Description: This Python notebook computes the upper tail dependence function of the Gaussian copula for a range of correlation values and plots the resulting curves. The figure illustrates that the Gaussian copula has no asymptotic tail dependence regardless of the correlation.
+
+Keywords: Gaussian copula, upper tail dependence, correlation, asymptotic behaviour, copula theory
+
+Author: Ștefan Găman
+
+Submitted: 8 July 2026

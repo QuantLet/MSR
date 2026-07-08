@@ -1,0 +1,11 @@
+Name of Quantlet: Tail_dep_tStudent
+
+Published in: Measuring Statistical Risk
+
+Description: This Python notebook computes the upper tail dependence function of the Student-t copula for a range of correlation values and plots the resulting curves. In contrast to the Gaussian copula, the figure shows that the t copula retains a positive tail dependence in the limit.
+
+Keywords: Student-t copula, upper tail dependence, correlation, degrees of freedom, copula theory
+
+Author: Ștefan Găman
+
+Submitted: 8 July 2026

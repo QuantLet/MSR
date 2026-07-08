@@ -1,0 +1,11 @@
+Name of Quantlet: ScatterPlot_BMW_VW
+
+Published in: Measuring Statistical Risk
+
+Description: This Python notebook standardises the log returns of BMW and Volkswagen and displays them in a scatter plot to visualise their joint behaviour. It also computes the rank correlations Kendall's tau and Spearman's rho for several German stock pairs and saves the results to a table.
+
+Keywords: scatter plot, rank correlation, Kendall's tau, Spearman's rho, German stocks
+
+Author: Ștefan Găman
+
+Submitted: 8 July 2026

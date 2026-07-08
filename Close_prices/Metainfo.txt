@@ -1,0 +1,11 @@
+Name of Quantlet: Close_prices
+
+Published in: Measuring Statistical Risk
+
+Description: This Python notebook loads the daily closing prices of Siemens, Bayer, BMW and Volkswagen from the shared Data folder and aligns them on common trading days. All four price series are plotted together in a single figure to compare their evolution over time.
+
+Keywords: closing prices, German stocks, time series, visualisation, DAX
+
+Author: Ștefan Găman
+
+Submitted: 8 July 2026

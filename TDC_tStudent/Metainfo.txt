@@ -1,0 +1,11 @@
+Name of Quantlet: TDC_tStudent
+
+Published in: Measuring Statistical Risk
+
+Description: This Python notebook computes the tail dependence coefficient of the Student-t copula as a joint function of the correlation and the degrees of freedom and displays it as a three-dimensional surface. The plot shows that tail dependence increases with the correlation and vanishes as the degrees of freedom grow large.
+
+Keywords: Student-t copula, tail dependence coefficient, correlation, degrees of freedom, surface plot
+
+Author: Ștefan Găman
+
+Submitted: 8 July 2026

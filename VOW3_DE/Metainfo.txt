@@ -1,0 +1,11 @@
+Name of Quantlet: VOW3_DE
+
+Published in: Measuring Statistical Risk
+
+Description: This Python notebook downloads the historical price and trading volume data of Volkswagen (VOW3.DE) from Yahoo Finance and computes the daily logarithmic returns of the stock. The price and return series are saved to the shared Data folder.
+
+Keywords: Volkswagen, log returns, stock prices, Yahoo Finance, time series
+
+Author: Ștefan Găman
+
+Submitted: 8 July 2026

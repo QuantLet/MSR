@@ -1,0 +1,11 @@
+Name of Quantlet: PDF_cop_Gauss
+
+Published in: Measuring Statistical Risk
+
+Description: This Python notebook evaluates the density of the Gaussian copula on a grid of the unit square and displays it as a three-dimensional surface. The plot shows the symmetric elliptical dependence structure implied by the underlying correlation parameter.
+
+Keywords: Gaussian copula, density, elliptical copula, correlation, surface plot
+
+Author: Ștefan Găman
+
+Submitted: 8 July 2026

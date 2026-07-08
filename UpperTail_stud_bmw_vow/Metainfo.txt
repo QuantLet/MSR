@@ -1,0 +1,11 @@
+Name of Quantlet: UpperTail_stud_bmw_vow
+
+Published in: Measuring Statistical Risk
+
+Description: This Python notebook examines the upper tail dependence between BMW and Volkswagen by fitting Student-t distributions to their standardised log returns and transforming the observations to the unit square. The resulting copula scatter plot highlights the joint exceedances in the upper corner above a high threshold.
+
+Keywords: upper tail dependence, Student-t distribution, copula, BMW, Volkswagen
+
+Author: Ștefan Găman
+
+Submitted: 8 July 2026

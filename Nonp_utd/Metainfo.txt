@@ -1,0 +1,11 @@
+Name of Quantlet: Nonp_utd
+
+Published in: Measuring Statistical Risk
+
+Description: This Python notebook estimates the upper tail dependence coefficient nonparametrically for the stock pairs BMW-Volkswagen, Siemens-Volkswagen and Bayer-Siemens using rank statistics of their standardised log returns. For each pair it draws a scatter plot and shows the smoothed estimator path together with the automatically selected threshold and the resulting tail dependence estimate.
+
+Keywords: upper tail dependence, nonparametric estimation, rank statistics, German stocks, threshold selection
+
+Author: Ștefan Găman
+
+Submitted: 8 July 2026
