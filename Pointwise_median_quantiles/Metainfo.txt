@@ -1,0 +1,11 @@
+Name of Quantlet: Pointwise_median_quantiles
+
+Published in: Measuring Statistical Risk
+
+Description: This Python notebook studies by simulation how well the local change point procedure recovers the dependence parameter of a six-dimensional Clayton copula that jumps at a known point in time. For six scenarios with upward and downward jumps of different sizes it shows the pointwise median and the pointwise quartiles of the adaptive estimates together with the true parameter path, which makes the delay of the procedure visible.
+
+Keywords: local change point procedure, Clayton copula, adaptive estimation, pointwise quantiles, simulation
+
+Author: Ștefan Găman
+
+Submitted: 3 August 2026

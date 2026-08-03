@@ -1,0 +1,11 @@
+Name of Quantlet: PDF_contour_plots
+
+Published in: Measuring Statistical Risk
+
+Description: This Python notebook plots the contour lines of four bivariate densities that share standard normal margins but are coupled by different copulas, namely the Gaussian, the Ali-Mikhail-Haq, the Frank and the Gumbel copula. The panels show how the choice of the copula alone reshapes the joint density even when the marginal distributions are identical.
+
+Keywords: copula density, contour plot, Archimedean copula, normal margins, Sklar's theorem
+
+Author: Ștefan Găman
+
+Submitted: 3 August 2026
