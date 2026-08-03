@@ -1,0 +1,11 @@
+Name of Quantlet: Kullback_Leibler_divergences
+
+Published in: Measuring Statistical Risk
+
+Description: This Python notebook computes by Monte Carlo simulation the Kullback-Leibler divergence between two six-dimensional Clayton copulas that differ in their dependence parameter. Both directions of the divergence are evaluated over a grid of parameter values and plotted together, which illustrates that the divergence is not symmetric in its two arguments.
+
+Keywords: Kullback-Leibler divergence, Clayton copula, asymmetry, dependence parameter, Monte Carlo simulation
+
+Author: Ștefan Găman
+
+Submitted: 3 August 2026

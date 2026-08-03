@@ -1,0 +1,11 @@
+Name of Quantlet: ScatterPlot_MBG_VW
+
+Published in: Measuring Statistical Risk
+
+Description: This Python notebook downloads the historical price and trading volume data of Mercedes-Benz Group (MBG.DE) from Yahoo Finance, computes the daily logarithmic returns and standardises them, saving the resulting series to the shared Data folder. The standardised returns are then aligned with those of Volkswagen on common trading days and displayed in a scatter plot that visualises the joint behaviour of the two stocks.
+
+Keywords: Mercedes-Benz, Volkswagen, standardised log returns, scatter plot, Yahoo Finance
+
+Author: Ștefan Găman
+
+Submitted: 3 August 2026
