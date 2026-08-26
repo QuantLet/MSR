@@ -1,0 +1,11 @@
+Name of Quantlet: MSR
+
+Published in: Measuring Statistical Risk
+
+Description: This repository collects the Python Quantlets of Measuring Statistical Risk, which study the risk of German stock portfolios from the joint perspective of extreme values and dependence. It covers the modelling of extreme losses with the block maxima and the peaks-over-threshold methods, the modelling of dependence with copulas and tail dependence coefficients, and the estimation and backtesting of the Value-at-Risk, up to an adaptive local change point approach in which the dependence parameter is allowed to vary over time.
+
+Keywords: extreme value theory, copula, tail dependence, Value-at-Risk, German stocks
+
+Author: Ștefan Găman
+
+Submitted: 26 August 2026
