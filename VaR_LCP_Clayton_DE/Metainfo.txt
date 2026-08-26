@@ -1,0 +1,11 @@
+Name of Quantlet: VaR_LCP_Clayton_DE
+
+Published in: Measuring Statistical Risk
+
+Description: These two Python notebooks form the empirical application of the local change point approach to the daily Value-at-Risk of two portfolios of six German stocks. The first notebook downloads the price data of the twelve stocks from Yahoo Finance and saves them to the shared Data folder, while the second models the dependence of the standardised RiskMetrics residuals with a six-dimensional Clayton copula and backtests the Value-at-Risk obtained from an adaptively selected local window against the one obtained from a fixed moving window and from the parametric RiskMetrics model.
+
+Keywords: Value-at-Risk, Clayton copula, local change point procedure, RiskMetrics, backtesting
+
+Author: Ștefan Găman
+
+Submitted: 26 August 2026
