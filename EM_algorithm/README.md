@@ -1,0 +1,20 @@
+<div style="margin: 0; padding: 0; text-align: center; border: none;">
+<a href="https://quantlet.com" target="_blank" style="text-decoration: none; border: none;">
+<img src="https://github.com/StefanGam/test-repo/blob/main/quantlet_design.png?raw=true" alt="Header Image" width="100%" style="margin: 0; padding: 0; display: block; border: none;" />
+</a>
+</div>
+
+```
+Name of Quantlet: EM_algorithm
+
+Published in: Measuring Statistical Risk
+
+Description: This Python notebook fits a two-component mixture copula to the standardised log returns of BMW and Siemens with the expectation maximisation algorithm, combining a Gumbel or a Frank copula with a Clayton copula so that dependence in both tails can be captured at the same time. The margins are modelled by Student-t distributions and the two competing mixtures are estimated from several random starting values and compared by their log likelihood, AIC and BIC, with the results saved to a table.
+
+Keywords: mixture copula, EM algorithm, tail dependence, BMW, Siemens
+
+Author: Ștefan Găman
+
+Submitted: 26 August 2026
+
+```
